@@ -4,7 +4,7 @@ This is a fork of [this repo](https://github.com/kronikpillow/voidrice) which I 
 
 # The Voidrice (Luke Smith <https://lukesmith.xyz>'s dotfiles)
 
-These are the dotfiles deployed by [my fork of LARBS](https://https://github.com/garaqta/LARBS)
+These are the dotfiles deployed by [my fork of LARBS](https://github.com/garaqta/LARBS)
 
 - Very useful scripts are in `~/.local/bin/`
 - Settings for:
